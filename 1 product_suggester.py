@@ -31,7 +31,7 @@ agent = Agent(
 )
 
 if __name__ == "__main__":
-    print(" Smart Store Agent is ready! Type your problem or 'exit' to quit.")
+    print("🛒 Smart Store Agent is ready! Type your problem or 'exit' to quit.")
     while True:
         q = input(" You: ")
         if q.lower() in ["exit", "quit", "bye"]:
