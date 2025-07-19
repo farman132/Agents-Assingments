@@ -56,8 +56,8 @@ activity_agent = Agent(
 
 
 def main():
-    print(" Welcome to the Mood Analyzer & Support Agent (Made by:MHZ)")
-    print(" Describe how you're feeling. (Type 'exit' to quit)\n")
+    print("🌈 Welcome to the Mood Analyzer & Support Agent (Made by:MHZ)")
+    print("🧠 Describe how you're feeling. (Type 'exit' to quit)\n")
 
     while True:
         user_input = input(" You: ").strip()
